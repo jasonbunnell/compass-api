@@ -1,0 +1,22 @@
+{
+  "name": "compass-api",
+  "version": "1.0.0",
+  "description": "Compass API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonbunnell/compass-api.git"
+  },
+  "author": "Jason Bunnell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonbunnell/compass-api/issues"
+  },
+  "homepage": "https://github.com/jasonbunnell/compass-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
